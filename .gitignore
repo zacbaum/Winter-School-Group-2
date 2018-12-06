@@ -1,3 +1,5 @@
 *.png
 *.zip
 *.csv
+*.avi
+*-checkpoint.ipynb
